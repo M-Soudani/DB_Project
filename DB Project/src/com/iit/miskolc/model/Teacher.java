@@ -1,6 +1,6 @@
 package com.iit.miskolc.model;
 
-public class Teacher {
+public class Teacher extends Staff {
     private int teacherID;
     private String designation;
     private int departmentID;

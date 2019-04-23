@@ -1,6 +1,6 @@
 package com.iit.miskolc.model;
 
-public class Worker {
+public class Worker extends Staff {
     private int staffID;
     private String job_Name;
 
