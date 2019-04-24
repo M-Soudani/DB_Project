@@ -1,7 +1,7 @@
 package com.iit.miskolc.model;
 
 /**
- * 
+ *
  * @author al-soudani
  *
  */
