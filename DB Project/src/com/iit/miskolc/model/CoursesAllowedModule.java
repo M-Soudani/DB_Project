@@ -1,6 +1,6 @@
 package com.iit.miskolc.model;
 
-public class Courses {
+public class CoursesAllowedModule {
 	private int courseID;
 	private String faculty;
 	private String institute;
