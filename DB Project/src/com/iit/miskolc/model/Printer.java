@@ -10,6 +10,7 @@ public class Printer extends Ressource{
         }
         public String getId() {
                 return id;
+
         }
         public void setType(String tp) {
                 this.type = tp;

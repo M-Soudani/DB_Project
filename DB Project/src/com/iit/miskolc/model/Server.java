@@ -8,6 +8,7 @@ public class Server extends Ressource{
 
     public void setId(String idd) {
         this.id = idd;
+
     }
     public String getId() {
         return id;

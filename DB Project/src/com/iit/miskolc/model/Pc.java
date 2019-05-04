@@ -9,6 +9,7 @@ public class Pc extends Ressource{
     }
     public String getId() {
         return id;
+
     }
     public void setConfig(String conf) {
         this.config = conf;

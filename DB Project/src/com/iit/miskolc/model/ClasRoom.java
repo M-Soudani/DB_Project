@@ -15,6 +15,7 @@ public class ClasRoom extends Ressource{
     }
     public long getCapacity() {
         return capacity;
+
     }
 
 }

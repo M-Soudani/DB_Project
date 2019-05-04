@@ -10,6 +10,7 @@ public class Ressource {
 
     public String getName() {
         return name;
+
     }
 
     public void setAvilability(boolean av) {

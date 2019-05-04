@@ -15,5 +15,6 @@ public class Lab extends Ressource{
         }
         public long getCapacity() {
                 return capacity;
+
         }
         }
