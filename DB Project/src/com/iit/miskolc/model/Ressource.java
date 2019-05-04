@@ -19,6 +19,7 @@ public class Ressource {
 
     public boolean getAvilability() {
         return avilability;
+
     }
 }
 

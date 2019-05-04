@@ -16,6 +16,7 @@ public class Pc extends Ressource{
     }
     public String getConfig() {
         return config;
+
     }
 
         }

@@ -24,6 +24,7 @@ public class Server extends Ressource{
     }
     public String getType() {
         return type;
+
     }
 
         }

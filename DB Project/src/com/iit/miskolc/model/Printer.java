@@ -20,6 +20,7 @@ public class Printer extends Ressource{
         }
         public void setState(boolean st) {
                 this.state = st;
+
         }
         public boolean getState() {
                 return state;

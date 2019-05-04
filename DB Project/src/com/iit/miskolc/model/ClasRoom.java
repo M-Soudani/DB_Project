@@ -12,6 +12,7 @@ public class ClasRoom extends Ressource{
     }
     public void setCapacity(long cp) {
         this.capacity = cp;
+
     }
     public long getCapacity() {
         return capacity;
