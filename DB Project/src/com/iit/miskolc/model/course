@@ -1,0 +1,52 @@
+import java.util.Date;
+
+/**
+ * Person Class
+ *
+ * @author guettatfi
+ *
+ */
+public class course {
+
+    private int courseID;
+    private String courseName;
+
+    private String programid;
+    private String teacherid;
+
+
+
+    public int getcourseID() {
+        return courseID;
+    }
+
+    public int setcourseID(int courseID) {
+        this.courseID = courseID;
+    }
+
+    public String getcourseName() {
+        return courseName;
+    }
+
+    public void setcourseName(String coursename) {
+        this.coursename = courseName;
+    }
+
+    public String getprogramid(string programid) {
+        return programid;
+
+        public void setprogramid (String programid){
+            this.program = programid;
+        }
+
+        public String getteacherid () {
+            return teacherid;
+        }
+        public void setteacherid (String teacherid)
+        {
+            this.teacherid = teacherid;
+
+        }
+
+
+    }
